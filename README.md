@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Adil Rahman!
+Hi, I'm Adil Rahman
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  </a> 
 <br/></h1>
 
@@ -9,7 +9,7 @@ Hi, I'm Adil Rahman!
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Scientist;ML+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a>
   
 </p>
 
@@ -42,7 +42,7 @@ Hi, I'm Adil Rahman!
  <tr>
     <td width="55%">
      
-## 🛠️ Skills
+## 🛠️ Skills 
 
 #### Languages
 
@@ -118,7 +118,7 @@ Hi, I'm Adil Rahman!
 
 ---
 <div align="center">
-<i>follow me around the web</i><br>
+<i>connect with me</i><br>
 <p>
 
 <a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/___i_am_iron_man/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/bitbyte_1337" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DEV.to"></a> <a href="https://medium.com/@adilrahman_1337" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="DEV.to"></a>
