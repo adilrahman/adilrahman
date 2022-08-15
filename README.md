@@ -17,7 +17,8 @@ Hi, I'm Adil Rahman
   
 </p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
+
 
 <img align="left" src="https://camo.githubusercontent.com/79c0410bf0683e6d0fc0a09ce3fb76b1fb6811f37867b5485feb504d38990e1f/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966" width="255" height="270" />
 
@@ -38,7 +39,7 @@ Hi, I'm Adil Rahman
 ```
 
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/adilrahman/">
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 </br>
 
@@ -122,11 +123,14 @@ Hi, I'm Adil Rahman
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adilrahman&theme=react-dark&hide_border=true&area=true)
 
 
----
+<br>
 <div align="center">
-<i>connect with me</i><br>
-<p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
+<p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
+ <a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/"  >connect with me</a><br><br>
 <a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/___i_am_iron_man/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/bitbyte_1337" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DEV.to"></a> <a href="https://medium.com/@adilrahman_1337" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="DEV.to"></a>
 
 </p>
