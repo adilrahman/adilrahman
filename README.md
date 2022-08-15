@@ -9,7 +9,10 @@ Hi, I'm Adil Rahman
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a>
+  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
+  
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Data+Scientist;ML+Enthusiast;Python+Developer;Committed+to+lifelong+learning"/>
+ 
   
 </p>
 
@@ -20,17 +23,19 @@ Hi, I'm Adil Rahman
 
 
 
+
+> 👨🏻‍💻 About me < />
+> -------------------------
 ```
-👨🏻‍💻 About Me < />
--------------------------
-💻 I am a Data Scientist and a ML | DL Developer
+💻 I am a Data Scientist and a ML | DL Developer 
 📚 I have a Bachelors in Computer Science from the APJ Abdul Kalam Technological University - kerala,India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Deep learning, Machine Learning and mobile application development In flutter
-🚩 Interested in Full Stack Machine Learning Application development
+📝 I have a strong interest in Data Science and Artificial Intelligence 
+🔭 Working on Deep Learning & Machine Learning 
+🌱 Learning about Deep learning, Machine Learning and mobile application development In flutter 
+🚩 Interested in Full Stack Machine Learning Application development 
 💖 Committed to lifelong learning
 ```
+
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/adilrahman/">
 <hr>
 
