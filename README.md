@@ -23,19 +23,22 @@ Hi, I'm Adil Rahman
 <img align="left" src="https://camo.githubusercontent.com/79c0410bf0683e6d0fc0a09ce3fb76b1fb6811f37867b5485feb504d38990e1f/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966" width="255" height="270" />
 
 
+<!---- <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <i><small>About me</small></i> --->
 
 
 
-> <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> About me   
-> -------------------------
+```css
+> root :~ whoami 
 ```
-💻 I am a Data Scientist and a ML | DL Developer 
-📚 I have a Bachelors in Computer Science from the APJ Abdul Kalam Technological University - kerala,India
-📝 I have a strong interest in Data Science and Artificial Intelligence 
-🔭 Working on Deep Learning & Machine Learning 
-🌱 Learning about Deep learning, Machine Learning and mobile application development In flutter 
-🚩 Interested in Full Stack Machine Learning Application development 
-💖 Committed to lifelong learning
+```zsh
+> I am a Data Scientist and a ML | DL Developer 💻
+> I have a Bachelors in Computer Science from KTU 📚 - kerala,India
+> I have a strong interest in Data Science and AI 📝
+> Working on Deep Learning & Machine Learning 🔭
+> Learning about DL , ML and mobile application development
+> Interested in Full Stack Machine Learning Application development 🚩
+
+> Committed to lifelong learning 💖
 ```
 
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/adilrahman/">
@@ -60,7 +63,7 @@ Hi, I'm Adil Rahman
      
  
 
-#### Languages 
+#### Lanuages 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
