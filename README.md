@@ -12,7 +12,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 <p align="center">
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+AND+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Data+Scientist;ML+And+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning" width="415" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Data+Scientist;ML+And+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
  
   
 </p>
