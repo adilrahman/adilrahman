@@ -10,9 +10,9 @@ Hi, I'm Adil Rahman
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 </p>
 <p align="center">
-  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
+  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+AND+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Data+Scientist;ML+Enthusiast;Python+Developer;Committed+to+lifelong+learning" width="415" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Data+Scientist;ML+And+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning" width="415" />
  
   
 </p>
@@ -30,12 +30,12 @@ Hi, I'm Adil Rahman
 ```css
 > root :~ whoami 
 ```
-```zsh
+```python
 > I am a Data Scientist and a ML | DL Developer 💻
 > I have a Bachelors in Computer Science from KTU 📚 - kerala,India
 > I have a strong interest in Data Science and AI 📝
 > Working on Deep Learning & Machine Learning 🔭
-> Learning about DL , ML and mobile application development
+> Learning about DL , ML and mobile application development 👨‍💻 
 > Interested in Full Stack Machine Learning Application development 🚩
 
 > Committed to lifelong learning 💖
