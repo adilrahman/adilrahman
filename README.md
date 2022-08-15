@@ -31,7 +31,7 @@ Hi, I'm Adil Rahman!
 🚩 Interested in Full Stack Machine Learning Application development
 💖 Committed to lifelong learning
 ```
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" /> <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /> <a href="https://github.com/adilrahman/">
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/adilrahman/">
 <hr>
 
 </br>
