@@ -37,6 +37,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 > Working on Deep Learning & Machine Learning 🔭
 > Learning about DL , ML and mobile application development 👨‍💻 
 > Interested in Full Stack Machine Learning Application development 🚩
+> I write articles on "https://medium.com/@adilrahman_1337"
 
 > Committed to lifelong learning 💖
 ```
