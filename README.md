@@ -62,7 +62,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
  <tr>
     <td width="55%">
      
- 
+ <!----  https://dev.to/envoy_/150-badges-for-github-pnk#artificial-intelligence --->
 
 #### Lanuages 
 
@@ -81,8 +81,8 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ! -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
 ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
----
-      
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
+--- 
 #### Web Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
