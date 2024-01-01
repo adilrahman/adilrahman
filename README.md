@@ -94,6 +94,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ---
 #### Tools and Technologies
 
