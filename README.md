@@ -86,6 +86,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 #### Web Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![Django](https://img.shields.io/badge/django-109989?style=flat&logo=django&logoColor=white)
 ---
 #### Mobile Application Development
 
@@ -106,7 +107,7 @@ Hi, I'm <a href="https://github.com/adilrahman"> Adil Rahman </a>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
-    
+![AWS](https://img.shields.io/badge/AWS-2CA5E0?style=flat&logo=aws&logoColor=white)&nbsp;   
 </td>
     <td>
 
